@@ -13,7 +13,7 @@ CAR_PRED = "car_pred.csv"
 NUM_FEATURES = 6
 NUM_CLASSES = 4
 
-model_dir = "."
+model_dir = "./car_model"
 model_type = "deep" # {"deep", "wide_n_deep", "wide"}
 train_steps = 500
 hidden_units = [100, 50]
