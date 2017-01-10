@@ -7,15 +7,15 @@ This code was tested with the following files:
 - Data to predict: car_pred.csv
 
 Furthermore, in the code we have three types of classifiers:
-- "wide": tf.contrib.learn.LinearClassifier
-- "deep": tf.contrib.learn.DNNClassifier
-- "wide_n_deep": tf.contrib.learn.DNNLinearCombinedClassifier
+- "wide": ```tf.contrib.learn.LinearClassifier```
+- "deep": ```tf.contrib.learn.DNNClassifier```
+- "wide_n_deep": ```tf.contrib.learn.DNNLinearCombinedClassifier```
 
 The model saved on car_model folder was generated using the following parameters:
 - model_type: "deep"
 - train_steps: 500
 - hidden_units: two hidden layers, the first with 100 units and the second with 50 units
-- optimizer: ```python tf.train.GradientDescentOptimizer```
+- optimizer: ```tf.train.GradientDescentOptimizer```
 - learning_rate: 0.05
 
 This model has equal prediction results than Naive Bayes method, we show the details:
