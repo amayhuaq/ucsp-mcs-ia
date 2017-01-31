@@ -60,5 +60,5 @@ About the number of iterations executed, we obtain the following results:
 - 500 iterations: Accuracy on Test-Set: 38.6% (3861 / 10000)
 - 2500 iterations: Accuracy on Test-Set: 49.8% (4978 / 10000)
 - 5000 iterations: Accuracy on Test-Set: 57.9% (5794 / 10000)
-- 10000 iterations: Accuracy on Test-Set: 
+- 10000 iterations: Accuracy on Test-Set: 63.8% (6376 / 10000)
 
