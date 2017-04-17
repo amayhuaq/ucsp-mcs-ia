@@ -1,0 +1,10 @@
+AreaGraph
+BarGraph
+LineGraph
+Map
+ParetoChart
+PieChart
+RadarPlot
+ScatterGraph
+Table
+VennDiagram
