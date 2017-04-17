@@ -14,4 +14,4 @@ Some details about this project are:
 This project was evaluated using 5-fold cross validation, with 2000 iterations per fold. 
 The fold with the best result was the 5th fold (F5); for that reason, the final weights of the models (pretrained and scratch) belong this evaluation. The weights files can be downloaded from the following URL:
 
-<>
+<https://drive.google.com/open?id=0BzE_p7Re6WDHM2tNOFlsS0hyUzQ>
